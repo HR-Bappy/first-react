@@ -1,0 +1,66 @@
+.avatarstyle img{
+    width: 200px;
+    height: 200px;
+}
+
+/* .avatarstyle:hover{
+    background-color: blueviolet;
+    transition: 500ms ease-in-out;
+} */
+
+h1, button{
+    text-transform: uppercase;
+    margin: auto;
+}
+p{
+    text-transform: capitalize;
+}
+.tc{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.text-white{
+    color: #fff !important;
+}
+
+
+
+button{
+    margin: 1rem;
+}
+.btn{
+    margin-left: 15px;
+    background-color: var(--background-color);
+    color: #fff;
+    padding: .5em 1em;
+    border: none;
+    outline: none;
+    position: relative;
+    cursor: pointer;
+    
+    --background-color: rgb(221, 62, 62);
+    --border-size: 2px;
+    --accent-color: #0AF;
+}
+
+/*border pop style*/
+
+.btn.btn-border-pop::before{
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    border: var(--border-size) solid var(--background-color);
+    transition: top, left, right, bottom, 250ms ease-in-out;
+}
+
+.btn.btn-border-pop:hover::before,
+.btn.btn-border-pop:focus::before{
+    top: calc(var(--border-size) * -2);
+    left: calc(var(--border-size) * -2);
+    right:  calc(var(--border-size) * -2);
+    bottom: calc(var(--border-size) * -2);
+}
