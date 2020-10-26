@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/first-react/static/css/main.60498df5.chunk.css",
+    "main.js": "/first-react/static/js/main.744c3c3b.chunk.js",
+    "main.js.map": "/first-react/static/js/main.744c3c3b.chunk.js.map",
+    "runtime-main.js": "/first-react/static/js/runtime-main.3ccf10ae.js",
+    "runtime-main.js.map": "/first-react/static/js/runtime-main.3ccf10ae.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/first-react/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.857311bd.chunk.js": "/first-react/static/js/2.857311bd.chunk.js",
+    "static/js/2.857311bd.chunk.js.map": "/first-react/static/js/2.857311bd.chunk.js.map",
+    "index.html": "/first-react/index.html",
+    "precache-manifest.6b9bf2d7c48fbee81f36874d5752921c.js": "/first-react/precache-manifest.6b9bf2d7c48fbee81f36874d5752921c.js",
+    "service-worker.js": "/first-react/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/first-react/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.60498df5.chunk.css.map": "/first-react/static/css/main.60498df5.chunk.css.map",
+    "static/js/2.857311bd.chunk.js.LICENSE.txt": "/first-react/static/js/2.857311bd.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/first-react/static/media/logo.5d5d9eef.svg",
+    "static/media/nayeem.jpg": "/first-react/static/media/nayeem.18ff58ed.jpg",
+    "static/media/neela.jpg": "/first-react/static/media/neela.71325a7c.jpg",
+    "static/media/rakhi.jpg": "/first-react/static/media/rakhi.8925b4b5.jpg",
+    "static/media/shammah.jpg": "/first-react/static/media/shammah.197a7891.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ccf10ae.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.857311bd.chunk.js",
+    "static/css/main.60498df5.chunk.css",
+    "static/js/main.744c3c3b.chunk.js"
+  ]
+}
